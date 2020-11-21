@@ -18,9 +18,13 @@ Presentation available at [https://drive.google.com/file/d/1uduQHvLmfIw5XI4UPlk8
 ![AI Recognition System2](https://user-images.githubusercontent.com/64856348/99879494-5cfd7200-2c33-11eb-81df-21f5ad502586.JPG)
 
 
-#### Besides these 2 snapshots our project was also tracing our hand movements like:
+#### Besides these 2 snapshots our project was also tracing our hand movements as follows:
 
-![AI Recognition System3](https://user-images.githubusercontent.com/64856348/99879526-a221a400-2c33-11eb-8017-d7817ccf43d3.JPG)
+
+
+
+
+![AI Recognition System3](https://user-images.githubusercontent.com/64856348/99879526-a221a400-2c33-11eb-8017-d7817ccf43d3.JPG) 
 
 ![AI Recognition System4](https://user-images.githubusercontent.com/64856348/99879569-db5a1400-2c33-11eb-891b-b59e2eeda0d3.JPG)
 
