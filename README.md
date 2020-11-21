@@ -30,7 +30,7 @@ Presentation available at [https://drive.google.com/file/d/1uduQHvLmfIw5XI4UPlk8
 
 ![AI Recognition System7](https://user-images.githubusercontent.com/64856348/99879526-a221a400-2c33-11eb-8017-d7817ccf43d3.JPG)
 
-![AI Recognition System8](https://user-images.githubusercontent.com/64856348/99879526-a221a400-2c33-11eb-8017-d7817ccf43d3.JPG)
+
 ## You can even fork it to have it in ur own Github
 # If you want to experience how the code is written , You can even Clone / Download it to analyse it in ur own machine 🔥🔥
 
