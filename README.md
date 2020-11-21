@@ -28,7 +28,7 @@ Presentation available at [https://drive.google.com/file/d/1uduQHvLmfIw5XI4UPlk8
 
 ![AI Recognition System6](https://user-images.githubusercontent.com/64856348/99879635-2d9b3500-2c34-11eb-8ca9-7848bf65912b.JPG)
 
-![AI Recognition System7](https://user-images.githubusercontent.com/64856348/99879526-a221a400-2c33-11eb-8017-d7817ccf43d3.JPG)
+
 
 
 ## You can even fork it to have it in ur own Github
