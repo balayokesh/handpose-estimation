@@ -1,41 +1,68 @@
-# Team : Indhackers
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Project Name : AI Recognition System for Hand Pose Estimation and Gesture Recognition 🤩🔥
+## Available Scripts
 
-## This project is made for the Hackathon 🤩 as well as for the sake of benefit to humanity😊
+In the project directory, you can run:
 
-Wanna experience byself!!  Click this : [👉🔥 Here 🔥👈](https://jovial-borg-e54cf2.netlify.app/)
+### `yarn start`
 
-Video at [https://youtu.be/pASoe97EOOI](https://youtu.be/pASoe97EOOI)
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Presentation available at [https://drive.google.com/file/d/1uduQHvLmfIw5XI4UPlk8qfaRor8Fyol5/view](https://drive.google.com/file/d/1uduQHvLmfIw5XI4UPlk8qfaRor8Fyol5/view)
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-### Some insights of the project
+### `yarn test`
 
-#### Here are the snapshots while making the project
-![AI Recognition System1](https://user-images.githubusercontent.com/64856348/99879451-0f810500-2c33-11eb-995b-bb952508a6bb.JPG)
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-![AI Recognition System2](https://user-images.githubusercontent.com/64856348/99879494-5cfd7200-2c33-11eb-81df-21f5ad502586.JPG)
+### `yarn build`
 
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-#### Besides these 2 snapshots our project was also tracing our hand movements as follows:
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `yarn eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-![AI Recognition System3](https://user-images.githubusercontent.com/64856348/99879526-a221a400-2c33-11eb-8017-d7817ccf43d3.JPG) 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-![AI Recognition System4](https://user-images.githubusercontent.com/64856348/99879569-db5a1400-2c33-11eb-891b-b59e2eeda0d3.JPG)
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-![AI Recognition System5](https://user-images.githubusercontent.com/64856348/99879582-ed3bb700-2c33-11eb-978c-b0d42f9beff7.JPG)
+## Learn More
 
-![AI Recognition System6](https://user-images.githubusercontent.com/64856348/99879635-2d9b3500-2c34-11eb-8ca9-7848bf65912b.JPG)
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-## You can even fork it to have it in ur own Github
-# If you want to experience how the code is written , You can even Clone / Download it to analyse it in ur own machine 🔥🔥
+### Analyzing the Bundle Size
 
-## Dont forget to give it ur love 💝 and necessarily a Star ✨
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `yarn build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
