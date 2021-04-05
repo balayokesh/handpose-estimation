@@ -4,6 +4,10 @@
 
 ## This project is made for the Hackathon 🤩 as well as for the sake of benefit to humanity😊
 
+# Hack/idea : 
+The required hack/idea we built is a customized solution which can be used for society and consists of a AI based Recognition System which can do Handpose Estimation(using Handpose model of Tensorflow.js) and also Gesture Recognition(using Fingerpose model of Tensorflow.js) using Tensorflow.Js and React.Js to help that person interact with the fellows easily through easy hand movements
+
+
 Wanna experience byself!!  Click this : [👉🔥 Here 🔥👈](https://handpose-estimation.netlify.app/)
 
 Video at [https://youtu.be/pASoe97EOOI](https://youtu.be/pASoe97EOOI)
