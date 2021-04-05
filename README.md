@@ -4,7 +4,7 @@
 
 ## This project is made for the Hackathon 🤩 as well as for the sake of benefit to humanity😊
 
-Wanna experience byself!!  Click this : [👉🔥 Here 🔥👈](https://jovial-borg-e54cf2.netlify.app/)
+Wanna experience byself!!  Click this : [👉🔥 Here 🔥👈](https://handpose-estimation.netlify.app/)
 
 Video at [https://youtu.be/pASoe97EOOI](https://youtu.be/pASoe97EOOI)
 
