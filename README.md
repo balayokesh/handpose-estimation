@@ -1,4 +1,3 @@
-<<<<<<< main
 # Team : Indhackers
 
 # Project Name : AI Recognition System for Hand Pose Estimation and Gesture Recognition 🤩🔥
@@ -39,7 +38,7 @@ Presentation available at [https://drive.google.com/file/d/1uduQHvLmfIw5XI4UPlk8
 ## You can even fork it to have it in ur own Github
 # If you want to experience how the code is written , You can even Clone / Download it to analyse it in ur own machine 🔥🔥
 
-## Dont forget to give it ur love 💝 and necessarily a Star ✨=======
+## Dont forget to give it ur love 💝 and necessarily a Star ✨
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -105,7 +104,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `yarn build` fails to minify
+### yarn build
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
->>>>>>> main
+
